@@ -20,3 +20,10 @@ git push -u origin master
 
 git clone http：...
      将远程仓库的项目克隆到本地
+
+git fetch
+     拉取远程仓库的变更到本地仓库
+git merge origin/master
+     将远程的变更，合并到本地仓库的master分支
+git pull
+     -- 不建议使用，等同于 fetch 之后merge
