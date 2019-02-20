@@ -11,3 +11,9 @@ git add
 
 git commit 
     将暂存区里的文件提交到本地仓库
+
+git remote
+    用于管理远程仓库
+
+git push -u origin master 
+    往名字为origin的仓库的master分支上提交变更
