@@ -17,3 +17,6 @@ git remote
 
 git push -u origin master 
     往名字为origin的仓库的master分支上提交变更
+
+git clone http：...
+     将远程仓库的项目克隆到本地
