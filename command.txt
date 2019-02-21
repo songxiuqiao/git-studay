@@ -39,3 +39,10 @@ git rm
 git checkout 
      --直接加文件名 从暂存区将文件恢复到工作区，如果工作区已有该文件，则会选择覆盖
      --加了分支名 +文件名 则表示从分支名为所写的分支名中拉取文件并覆盖工作区里的文件 
+
+
+新建文件 --->Untracked
+使用add命令将新建文件加入到暂存区---->Staged
+使用commit命令将暂存区的文件提交到本地仓库----->Unmodified
+如果对Unmodified状态的文件进行修改，状态就变成modified
+如果对Unmodified状态的文件进行remove操作---->>Untracked
