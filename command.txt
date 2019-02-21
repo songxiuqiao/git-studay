@@ -27,3 +27,6 @@ git merge origin/master
      将远程的变更，合并到本地仓库的master分支
 git pull
      -- 不建议使用，等同于 fetch 之后merge
+
+git status
+     --用于查看git的状态
