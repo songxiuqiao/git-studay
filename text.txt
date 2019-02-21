@@ -1,0 +1,4 @@
+刚刚commit，现在又修改
+状态变成staged状态
+再修改又变成midifiy状态
+再修改
